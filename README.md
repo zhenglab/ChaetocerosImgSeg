@@ -5,7 +5,7 @@ Unsupervised Pixel-wise Classification for Chaetoceros Image Segmentation.
 A new Chaetoceros image dataset and all segmentation results of our work can be downloaded from: https://pan.baidu.com/s/1smKuBDF
 
 # References
-[1] L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille, “Deeplab: Semantic image segmentation with deep con- volutional nets, atrous convolution, and fully connected crfs,” arXiv:1606.00915, 2016.
+[1] L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille, “Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs,” arXiv:1606.00915, 2016.
 
 [2] H. Zheng, H. Zhao, X. Sun, H. Gao, and G. Ji, “Automatic setae segmentation from chaetoceros microscopic images,” Microscopy Research and Technique, vol. 77, no. 9, pp. 684–690, 2014.
 
