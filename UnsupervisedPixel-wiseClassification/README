@@ -1,0 +1,7 @@
+Useages:
+1. Run "exper/canny_or_gsdam.m" and "exper/trainingsamplesgeneration.m" to automatically generate training samples.
+2. Run "train.sh" for training. After training, run "exper/divide.m" to partition each image into small regions.
+3. Run "train.sh" for testing. After testing, run "exper/cut.m", "exper/rotate.m", "exper/combine_beforecrf", and "exper/final.m" in sequence to get segmentation results. 
+4. If you need to use CRF, please consider running "run_densecrf.sh".
+
+
